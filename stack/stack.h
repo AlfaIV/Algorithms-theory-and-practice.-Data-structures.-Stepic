@@ -11,7 +11,7 @@
   void Push(struct stack_on_array * stack, char * data);
   void Pop(struct stack_on_array * stack);
   char * Top(struct stack_on_array * stack);
-  _Bool IsEmpty(struct stack_on_array * stack);
+  //_Bool IsEmpty(struct stack_on_array * stack);
 
   
 #endif
